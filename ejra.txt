@@ -1,0 +1,8 @@
+hoosh masnooii vs hoosh masnooii
+aval main.py dar server ra ba idle baz karde va Run konid
+sepas main.py dar client ra ba idle baz karde va Run konid
+dobare main.py dar client ra ba idle baz karde va Run konid
+hoosh masnooii vs random
+aval main.py dar server ra ba idle baz karde va Run konid
+sepas main.py dar client ra ba idle baz karde va Run konid
+sepas main.py client-Copy ra ba idle baz karde va Run konid
